@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.log
+TrainingImage/
+TrainingImageLabel/
+StudentDetails/
+UI_Image/
+Project Snap/
